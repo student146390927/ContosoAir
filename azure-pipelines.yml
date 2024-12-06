@@ -1,5 +1,7 @@
    pool:
      name: 'default'
+     demands: msiCreatorPlus
+
    trigger:
      - master
    steps:
